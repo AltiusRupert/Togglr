@@ -8,10 +8,5 @@
         <plural>true</plural>
         <value>Org Definitions</value>
     </caseValues>
-    <fields>
-        <help><!-- The Id associated with the org definition. --></help>
-        <label><!-- Org Id --></label>
-        <name>OrgId__c</name>
-    </fields>
     <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>

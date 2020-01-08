@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>A definition object that contains records outlining each org in your organization&#39;s stack. For example, many organizations utilize Sandboxes to do their new development and testing in; this defines each.</description>
+    <label>Org Definition</label>
+    <pluralLabel>Org Definitions</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
